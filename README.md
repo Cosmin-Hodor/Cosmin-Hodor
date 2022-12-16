@@ -1,5 +1,5 @@
 <p align="center">
- 👋 Hi, I’m @Cosmin-Hodor
+ 👋 Hi, I’m @Cosmin-Hodor!
 </p>
 
 <p align="center">
