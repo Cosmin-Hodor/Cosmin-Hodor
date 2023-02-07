@@ -14,9 +14,5 @@ If you have got an idea or want to work together, ring me up! 🤙
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=Cosmin-Hodor&color=green)
-</p>
-
-<p align="center">
 ❤️ Open Source ❤️
 </p>
