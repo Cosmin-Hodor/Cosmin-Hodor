@@ -1,18 +1,12 @@
 <p align="center">
- 👋 Hi, I’m @Cosmin-Hodor!
+Greetings! I am @Cosmin-Hodor, a passionate Software Developer with a primary focus on web technologies, but my skills expand beyond that.
 </p>
-
 <p align="center">
-I am a Software Developer, mainly focused on web technologies but not only.
- </p>
- <p align="center">
-Learning as each day passes and open to new ideas and opportunities. 🙃
+I am constantly learning and seeking new opportunities to grow and improve. I enjoy collaborating with others and am always open to new ideas and perspectives. 🙃
 </p>
-
 <p align="center">
-If you have got an idea or want to work together, ring me up! 🤙
+If you have any exciting ideas or projects you would like to collaborate on, please don't hesitate to contact me! 🤙
 </p>
-
 <p align="center">
-❤️ Open Source ❤️
+I am also a strong advocate for Open Source and believe in contributing to the community whenever possible. ❤️
 </p>
