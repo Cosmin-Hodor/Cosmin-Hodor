@@ -2,7 +2,7 @@
 Greetings! 
   
 <p align="center">
-I am @Cosmin-Hodor, a passionate Software Developer with a primary focus on web technologies, but my skills expand beyond that.
+Software Developer with a primary focus on web technologies, but my interests expand beyond that.
 </p>
 
 <p align="center">
