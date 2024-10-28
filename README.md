@@ -36,19 +36,20 @@
 
 <h2 align="center">🎵 Now Playing</h2>
 <p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  <a href="https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="DOOM (Original Game Soundtrack)" width="200" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </a>
+</p>
+<p align="center">
+  <strong>Amyl and The Sniffers</strong><br>
+</p>
+<p align="center">
+  <a href="https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL">
+    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
+  </a>
 </p>
 
 <h2 align="center">💡 A Quote</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
-<h2 align="center">😄 Random Dev Meme</h2>
-<p align="center">
-  <img src='https://randommemer.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="300" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Cosmin-Hodor/Cosmin-Hodor/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
