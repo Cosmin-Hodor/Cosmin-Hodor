@@ -48,8 +48,3 @@
     <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
   </a>
 </p>
-
-<h2 align="center">💡 A Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
