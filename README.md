@@ -37,7 +37,7 @@
 <h2 align="center">🎵 Now Playing</h2>
 <p align="center">
   <a href="https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac" alt="DOOM (Original Game Soundtrack)" width="200" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src="https://i.scdn.co/image/ab67616d0000b2738329da1c637bdfedd6912e70" alt="Amyl and the Sniffers" width="200" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
 </p>
 <p align="center">
