@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cosmin-Hodor&show_icons=true&count_private=true&hide_border=true&theme=react" alt="GitHub Stats" width="48%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cosmin-Hodor&theme=react" alt="GitHub Streak" width="48%" />
 </div>
 
