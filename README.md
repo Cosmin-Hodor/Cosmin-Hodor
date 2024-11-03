@@ -40,11 +40,3 @@
     <img src="https://i.scdn.co/image/ab67616d0000b2738329da1c637bdfedd6912e70" alt="Amyl and the Sniffers" width="200" height="200" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
 </p>
-<p align="center">
-  <strong>Amyl and The Sniffers</strong><br>
-</p>
-<p align="center">
-  <a href="https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL">
-    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify" />
-  </a>
-</p>
