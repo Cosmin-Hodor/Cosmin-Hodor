@@ -14,15 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Cosmin-Hodor&show_icons=true&theme=nord&hide_border=true"
-    alt="GitHub stats"
-    height="165"
-  />
-</div>
-
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmin-Hodor&layout=compact&theme=nord&hide_border=true"
@@ -38,16 +29,5 @@
   <img
     src="https://skillicons.dev/icons?i=react,angular,express,mongodb,js,ts,html,css,nodejs,python,git"
     alt="Tech stack"
-  />
-</div>
-
----
-
-## 📈 Activity
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmin-Hodor&theme=nord&hide_border=true"
-    alt="Activity graph"
-    width="100%"
   />
 </div>
