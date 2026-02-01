@@ -14,16 +14,6 @@
 
 ---
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmin-Hodor&layout=compact&theme=nord&hide_border=true"
-    alt="Top languages"
-    height="165"
-  />
-</div>
-
----
-
 ## 🚀 Tech Stack
 <div align="center">
   <img
